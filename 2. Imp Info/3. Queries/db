@@ -1,0 +1,38 @@
+## DataBase Related Queries :-
+
+    CREATE DATABASE db_name;
+    CREATE DATABASE IF NOT EXIEST db_name;
+
+    DROP DATABASE db_name;
+    DROP DATBASE IF EXISTS db_name;
+
+    SHOW DATABASE;
+    SHOW TABLES;
+
+
+## TABLE Related Queries :-
+
+    # 1 Create Table :-
+
+        CREATE TABLE table_name(
+            column_name1 datatype constraints
+
+            columns_name2 datatype constaints
+        );
+
+    # 2 Show Table
+    
+        SELECT * FROM table_name;
+
+    # 3 Insert
+
+        INSERT INTO table_name
+        (col1name,colname2)
+        VAlUES
+        (col1_v1 , col2_v2),
+        (col1_v2 , col2_v2);
+
+    # 4 SELECT
+
+        
+

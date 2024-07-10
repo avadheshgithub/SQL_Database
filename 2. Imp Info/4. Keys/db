@@ -1,0 +1,35 @@
+## KEYS :-
+
+
+    # Defination :-
+        
+       - IT uniquickly identify each element
+
+    
+    # Type :-
+
+
+        1. Primary key :- 
+
+            - it is column (set of columns)in a table that uniquely identifies each row 
+
+            - there is only 1 primary key
+
+            - it not should be null
+    
+
+        2. Foreign Key :-
+
+            - a foreign key is a column (set of columns) in atvle that refer to the primary key that can be multiple fk.
+
+            - fk can have duplicate & null values
+    
+
+            # Program :-
+
+                CREATE TABLE temp(
+                    cust_id int;
+                    FOREIGN KEY (cust_id) REFERENCE customer (id);
+                )
+
+
