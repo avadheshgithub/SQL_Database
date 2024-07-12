@@ -1,0 +1,31 @@
+ 
+## DBMS (DataNase Management)
+
+    # Defination :-
+
+        - it is software application used to manage our database is called DBMS (DataBase management System)
+
+
+        - it is kind of layer, that perporm operation on the database as per the query/coomand
+
+
+        - it is situated at the between of user interface and database
+
+
+        - it is used to interact with the database
+
+
+## DataBase Structure
+
+    - In database , there We create many tables and they are the inter-related
+
+    - So multiple tables are there for diff diff uses
+
+    - in that tables, we store values
+
+    
+## Table
+
+    - Rows -> Data that are stored (Tell - Individiual data)
+
+    - Columns -> Attributes (it tell - Structure (Schema))
