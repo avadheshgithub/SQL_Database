@@ -17,7 +17,6 @@ Welcome to the SQL Database Project! This repository contains a series of lectur
 | Joins             | 2024-07-18 | [Joins](https://github.com/avadheshgithub/SQL_DATABASE)              |
 | SQL Sub Queries   | 2024-07-19 | [SQL Sub Queries](https://github.com/avadheshgithub/SQL_DATABASE)    |
 | MySQL View        | 2024-07-20 | [MySQL View](https://github.com/avadheshgithub/SQL_DATABASE)         |
-| Next 10 Days      | 2024-07-21 to 2024-07-30 | [Next 10 Days](https://github.com/avadheshgithub/SQL_DATABASE) |
 
 
 ---
