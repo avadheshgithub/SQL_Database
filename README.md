@@ -1,19 +1,24 @@
 # SQL_DATABASE
 
-![SQL](https://img.shields.io/badge/SQL-Database_Project-blue)
+![SQL](https://img.shields.io/badge/SQL-Database_MYSQL-blue)
 
 Welcome to the SQL Database Project! This repository contains a series of lectures designed to teach you the fundamentals and advanced concepts of SQL databases.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Concept Theory](#concept-theory)
-3. [Create DataBases](#create-databases)
-4. [Create Tables](#create-tables)
-5. [Assignments](#assignments)
-6. [Command Queries](#command-queries)
-7. [Joins](#joins)
-8. [SQL Sub Queries](#sql-sub-queries)
-9. [MySQL View](#mysql-view)
+
+| Lecture           | Date       | Link                                                                 |
+|-------------------|------------|----------------------------------------------------------------------|
+| Introduction      | 2024-07-12 | [Introduction](https://github.com/avadheshgithub/SQL_DATABASE)       |
+| Concept Theory    | 2024-07-13 | [Concept Theory](https://github.com/avadheshgithub/SQL_DATABASE)   |
+| Create DataBases  | 2024-07-14 | [Create DataBases](https://github.com/avadheshgithub/SQL_DATABASE) |
+| Create Tables     | 2024-07-15 | [Create Tables](https://github.com/avadheshgithub/SQL_DATABASE)      |
+| Assignments       | 2024-07-16 | [Assignments](https://github.com/avadheshgithub/SQL_DATABASE)        |
+| Command Queries   | 2024-07-17 | [Command Queries](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Joins             | 2024-07-18 | [Joins](https://github.com/avadheshgithub/SQL_DATABASE)              |
+| SQL Sub Queries   | 2024-07-19 | [SQL Sub Queries](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| MySQL View        | 2024-07-20 | [MySQL View](https://github.com/avadheshgithub/SQL_DATABASE)         |
+| Next 10 Days      | 2024-07-21 to 2024-07-30 | [Next 10 Days](https://github.com/avadheshgithub/SQL_DATABASE) |
+
 
 ---
 
