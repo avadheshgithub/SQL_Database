@@ -2,15 +2,15 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Database_MYSQL-blue)
 
-Welcome to the SQL Database Project! This repository contains a series of lectures designed to teach you the fundamentals and advanced concepts of SQL databases.
+ This repository contains a series of lectures designed to teach us the fundamentals and advanced concepts of SQL databases.
 
 ## Table of Contents
 
 | Lecture           | Date       | Link                                                                 |
 |-------------------|------------|----------------------------------------------------------------------|
 | Introduction      | 2024-07-12 | [Introduction](https://github.com/avadheshgithub/SQL_DATABASE)       |
-| Concept Theory    | 2024-07-13 | [Concept Theory](https://github.com/avadheshgithub/SQL_DATABASE)   |
-| Create DataBases  | 2024-07-14 | [Create DataBases](https://github.com/avadheshgithub/SQL_DATABASE) |
+| Concept Theory    | 2024-07-13 | [Concept Theory](https://github.com/avadheshgithub/SQL_DATABASE)     |
+| Create DataBases  | 2024-07-14 | [Create DataBases](https://github.com/avadheshgithub/SQL_DATABASE)   |
 | Create Tables     | 2024-07-15 | [Create Tables](https://github.com/avadheshgithub/SQL_DATABASE)      |
 | Assignments       | 2024-07-16 | [Assignments](https://github.com/avadheshgithub/SQL_DATABASE)        |
 | Command Queries   | 2024-07-17 | [Command Queries](https://github.com/avadheshgithub/SQL_DATABASE)    |
@@ -26,7 +26,7 @@ Welcome to the SQL Database Project! This repository contains a series of lectur
 
 ![Introduction](https://img.shields.io/badge/SQL-Introduction-blue)
 
-In this lecture, we cover the basics of SQL and its significance in database management.
+In this lecture, it cover the basics of SQL and its significance in database management.
 
 ## Concept Theory
 **Lec - 02**
