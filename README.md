@@ -2,21 +2,21 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Database_MYSQL-blue)
 
- This repository contains a series of lectures designed to teach us the fundamentals and advanced concepts of SQL databases.
+ This repository contains a series of lectures that help in our learning the fundamentals and advanced concepts of SQL databases.
 
 ## Table of Contents
 
-| Lecture           | Date       | Link                                                                 |
-|-------------------|------------|----------------------------------------------------------------------|
-| Introduction      | 2024-07-12 | [Introduction](https://github.com/avadheshgithub/SQL_DATABASE)       |
-| Concept Theory    | 2024-07-13 | [Concept Theory](https://github.com/avadheshgithub/SQL_DATABASE)     |
-| Create DataBases  | 2024-07-14 | [Create DataBases](https://github.com/avadheshgithub/SQL_DATABASE)   |
-| Create Tables     | 2024-07-15 | [Create Tables](https://github.com/avadheshgithub/SQL_DATABASE)      |
-| Assignments       | 2024-07-16 | [Assignments](https://github.com/avadheshgithub/SQL_DATABASE)        |
-| Command Queries   | 2024-07-17 | [Command Queries](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Joins             | 2024-07-18 | [Joins](https://github.com/avadheshgithub/SQL_DATABASE)              |
-| SQL Sub Queries   | 2024-07-19 | [SQL Sub Queries](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| MySQL View        | 2024-07-20 | [MySQL View](https://github.com/avadheshgithub/SQL_DATABASE)         |
+| Lecture           | Date       | Link                                                     |
+|-------------------|------------|----------------------------------------------------------|
+| Introduction      | 2024-07-12 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Concept Theory    | 2024-07-13 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Create DataBases  | 2024-07-14 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Create Tables     | 2024-07-15 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Assignments       | 2024-07-16 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Command Queries   | 2024-07-17 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Joins             | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| SQL Sub Queries   | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| MySQL View        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
 
 
 ---
@@ -26,7 +26,7 @@
 
 ![Introduction](https://img.shields.io/badge/SQL-Introduction-blue)
 
-In this lecture, it cover the basics of SQL and its significance in database management.
+this lecture, cover the basics of SQL and its significance in database management.
 
 ## Concept Theory
 **Lec - 02**
