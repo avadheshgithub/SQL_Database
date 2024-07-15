@@ -87,6 +87,7 @@ Discover how to create and manage views in MySQL, and understand their benefits.
 
 ---
 
+
 ## How to Use This Repository
 
 1. **Clone the repository**: 
