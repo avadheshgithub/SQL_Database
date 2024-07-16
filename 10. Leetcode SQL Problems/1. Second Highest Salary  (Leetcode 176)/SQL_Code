@@ -1,7 +1,7 @@
-Problem Statement :-
+Problem Statement:-
 
-Write a solution to find the second highest salary from the Employee table.
-If there is no second highest salary, return null (return None in Pandas).
+Could you write a solution to find the second highest salary from the Employee table?
+Return null if there is no second-highest salary (return None in Pandas).
 The result format is in the following example.
 
 
@@ -23,7 +23,7 @@ The result format is in the following example.
                           | 200                 |
                           +---------------------+
 
-Solution :-
+Solution:-
 
 # Write your MySQL query statement below
 
