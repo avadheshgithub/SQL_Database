@@ -1,0 +1,33 @@
+Problem Statement :
+
+                    Write a solution to delete all duplicate emails, keeping only one unique email with the smallest id.
+                    For SQL users, please note that you are supposed to write a DELETE statement and not a SELECT one
+                    The result format is in the following example.
+                    
+                     
+                    
+                    Example 1:
+                    
+                    Input: 
+                    Person table:
+                    +----+------------------+
+                    | id | email            |
+                    +----+------------------+
+                    | 1  | john@example.com |
+                    | 2  | bob@example.com  |
+                    | 3  | john@example.com |
+                    +----+------------------+
+                    Output: 
+                    +----+------------------+
+                    | id | email            |
+                    +----+------------------+
+                    | 1  | john@example.com |
+                    | 2  | bob@example.com  |
+                    +----+------------------+
+
+Solution :
+
+# Write your MySQL query statement below
+delete p1
+from Person as p1, Person as p2
+where p1.Email = p2.Email and p1.Id > p2.Id;
