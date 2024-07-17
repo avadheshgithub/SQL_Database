@@ -17,6 +17,8 @@
 | Joins             | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
 | SQL Sub Queries   | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
 | MySQL View        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| MYSQL Notes       | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| Leetcode Problems | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE/tree/main/Leetcode%20SQL%20Problems_)    |
 
 
 ---
