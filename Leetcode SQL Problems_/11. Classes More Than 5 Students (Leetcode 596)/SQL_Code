@@ -1,0 +1,39 @@
+Problem Statement  :-
+
+                    Write a solution to find all the classes that have at least five students.
+                    Return the result table in any order.
+                    The result format is in the following example.
+                    
+                     
+                    
+                    Example 1:
+                    
+                    Input: 
+                    Courses table:
+                    +---------+----------+
+                    | student | class    |
+                    +---------+----------+
+                    | A       | Math     |
+                    | B       | English  |
+                    | C       | Math     |
+                    | D       | Biology  |
+                    | E       | Math     |
+                    | F       | Computer |
+                    | G       | Math     |
+                    | H       | Math     |
+                    | I       | Math     |
+                    +---------+----------+
+                    Output: 
+                    +---------+
+                    | class   |
+                    +---------+
+                    | Math    |
+                    +---------+
+
+Solution -
+
+# Write your MySQL query statement below
+SELECT class
+FROM courses
+GROUP BY class
+HAVING COUNT(distinct student) >= 5;
