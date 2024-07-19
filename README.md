@@ -6,19 +6,19 @@
 
 ## Table of Contents
 
-| No. | Lecture            | Date       | Link                                                     |
-|-----|--------------------|------------|----------------------------------------------------------|
-| 1   | Introduction       | 2024-07-12 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 2   | Concept Theory     | 2024-07-13 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 3   | Create DataBases   | 2024-07-14 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 4   | Create Tables      | 2024-07-15 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 5   | Assignments        | 2024-07-16 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 6   | Command Queries    | 2024-07-17 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 7   | Joins              | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 8   | SQL Sub Queries    | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 9   | MySQL View         | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 10  | MYSQL Notes        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| 11  | Leetcode Problems  | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE/tree/main/Leetcode%20SQL%20Problems_) |
+| No. | Lecture            | Date       | Link                                                     | Description                                                 |
+|-----|--------------------|------------|----------------------------------------------------------|-------------------------------------------------------------|
+| 1   | Introduction       | 2024-07-12 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Introduction to SQL and its significance.                   |
+| 2   | Concept Theory     | 2024-07-13 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Theoretical concepts of SQL including data types and schemas.|
+| 3   | Create DataBases   | 2024-07-14 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | How to create databases with practical examples.            |
+| 4   | Create Tables      | 2024-07-15 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Creating tables, defining columns, and setting constraints. |
+| 5   | Assignments        | 2024-07-16 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Practical assignments based on covered topics.              |
+| 6   | Command Queries    | 2024-07-17 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Various SQL commands for querying databases.                |
+| 7   | Joins              | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Using SQL JOINs to combine data from multiple tables.       |
+| 8   | SQL Sub Queries    | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Subqueries, nested queries, and their applications.         |
+| 9   | MySQL View         | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Creating and managing views in MySQL.                       |
+| 10  | MYSQL Notes        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Important notes and tips for MySQL.                         |
+| 11  | Leetcode Problems  | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE/tree/main/Leetcode%20SQL%20Problems_) | SQL problems from LeetCode for practice. |
 
 
 ---
