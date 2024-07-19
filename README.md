@@ -35,7 +35,7 @@ this lecture, cover the basics of SQL and its significance in database managemen
 
 ![Concept Theory](https://img.shields.io/badge/SQL-Concept_Theory-blue)
 
-This lecture dives into the theoretical concepts of SQL, explaining data types, schemas, and database structures.
+ Theoretical concepts of SQL, explaining data types, schemas, and database structures.
 
 ## Create DataBases
 **Lec - 03**
@@ -84,8 +84,15 @@ Learn about subqueries, nested queries, and their applications in SQL.
 
 ![MySQL View](https://img.shields.io/badge/SQL-MySQL_View-blue)
 
-Discover how to create and manage views in MySQL, and understand their benefits.
+ Discover how to create and manage views in MySQL, and understand their benefits.
 
+
+## Leetcode SQL Problems
+**Lec - 10**
+
+![Leetcode problems](https://img.shields.io/badge/SQL-Leetcode_Problems-blue)
+
+In this, I solved the top Leetcode SQL problems as a practice.
 
 ---
 
