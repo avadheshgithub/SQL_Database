@@ -101,4 +101,4 @@ In this, I solved the top Leetcode SQL problems as a practice.
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge
+   git clone https://github.com/avadheshgithub/SQL_DATABASE
