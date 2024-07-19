@@ -6,19 +6,19 @@
 
 ## Table of Contents
 
-| Lecture           | Date       | Link                                                     |
-|-------------------|------------|----------------------------------------------------------|
-| Introduction      | 2024-07-12 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Concept Theory    | 2024-07-13 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Create DataBases  | 2024-07-14 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Create Tables     | 2024-07-15 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Assignments       | 2024-07-16 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Command Queries   | 2024-07-17 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Joins             | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| SQL Sub Queries   | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| MySQL View        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| MYSQL Notes       | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Leetcode Problems | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE/tree/main/Leetcode%20SQL%20Problems_)    |
+| No. | Lecture            | Date       | Link                                                     |
+|-----|--------------------|------------|----------------------------------------------------------|
+| 1   | Introduction       | 2024-07-12 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 2   | Concept Theory     | 2024-07-13 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 3   | Create DataBases   | 2024-07-14 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 4   | Create Tables      | 2024-07-15 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 5   | Assignments        | 2024-07-16 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 6   | Command Queries    | 2024-07-17 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 7   | Joins              | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 8   | SQL Sub Queries    | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 9   | MySQL View         | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 10  | MYSQL Notes        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
+| 11  | Leetcode Problems  | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE/tree/main/Leetcode%20SQL%20Problems_) |
 
 
 ---
