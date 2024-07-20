@@ -4,21 +4,25 @@
 
  This repository contains a series of lectures that help in our learning the fundamentals and advanced concepts of SQL databases.
 
+ <p align="center">
+  <img src="https://img.shields.io/static/v1?label=Progress&message=11%2F11&color=brightgreen" alt="Progress">
+</p>
+
 ## Table of Contents
 
-| Lecture           | Date       | Link                                                     |
-|-------------------|------------|----------------------------------------------------------|
-| Introduction      | 2024-07-12 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Concept Theory    | 2024-07-13 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Create DataBases  | 2024-07-14 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Create Tables     | 2024-07-15 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Assignments       | 2024-07-16 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Command Queries   | 2024-07-17 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Joins             | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| SQL Sub Queries   | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| MySQL View        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| MYSQL Notes       | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    |
-| Leetcode Problems | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE/tree/main/Leetcode%20SQL%20Problems_)    |
+| No. | Lecture            | Date       | Link                                                     | Description                                                 |
+|-----|--------------------|------------|----------------------------------------------------------|-------------------------------------------------------------|
+| 1   | Introduction       | 2024-07-12 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Introduction to SQL and its significance.                   |
+| 2   | Concept Theory     | 2024-07-13 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Theoretical concepts of SQL including data types and schemas.|
+| 3   | Create DataBases   | 2024-07-14 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | How to create databases with practical examples.            |
+| 4   | Create Tables      | 2024-07-15 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Creating tables, defining columns, and setting constraints. |
+| 5   | Assignments        | 2024-07-16 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Practical assignments based on covered topics.              |
+| 6   | Command Queries    | 2024-07-17 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Various SQL commands for querying databases.                |
+| 7   | Joins              | 2024-07-18 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Using SQL JOINs to combine data from multiple tables.       |
+| 8   | SQL Sub Queries    | 2024-07-19 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Subqueries, nested queries, and their applications.         |
+| 9   | MySQL View         | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Creating and managing views in MySQL.                       |
+| 10  | MYSQL Notes        | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE)    | Important notes and tips for MySQL.                         |
+| 11  | Leetcode Problems  | 2024-07-20 | [Url](https://github.com/avadheshgithub/SQL_DATABASE/tree/main/Leetcode%20SQL%20Problems_) | SQL problems from LeetCode for practice. |
 
 
 ---
@@ -35,7 +39,7 @@ this lecture, cover the basics of SQL and its significance in database managemen
 
 ![Concept Theory](https://img.shields.io/badge/SQL-Concept_Theory-blue)
 
-This lecture dives into the theoretical concepts of SQL, explaining data types, schemas, and database structures.
+ Theoretical concepts of SQL, explaining data types, schemas, and database structures.
 
 ## Create DataBases
 **Lec - 03**
@@ -84,8 +88,15 @@ Learn about subqueries, nested queries, and their applications in SQL.
 
 ![MySQL View](https://img.shields.io/badge/SQL-MySQL_View-blue)
 
-Discover how to create and manage views in MySQL, and understand their benefits.
+ Discover how to create and manage views in MySQL, and understand their benefits.
 
+
+## Leetcode SQL Problems
+**Lec - 10**
+
+![Leetcode problems](https://img.shields.io/badge/SQL-Leetcode_Problems-blue)
+
+In this, I solved the top Leetcode SQL problems as a practice.
 
 ---
 
@@ -94,4 +105,4 @@ Discover how to create and manage views in MySQL, and understand their benefits.
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/avadheshgithub/100_Days_Of_Coding-Challenge
+   git clone https://github.com/avadheshgithub/SQL_DATABASE
