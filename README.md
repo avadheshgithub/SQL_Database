@@ -84,6 +84,7 @@ Understand how to use SQL JOINs to combine data from multiple tables effectively
 
 Learn about subqueries, nested queries, and their applications in SQL.
 
+
 ## MySQL View
 **Lec - 09**
 
